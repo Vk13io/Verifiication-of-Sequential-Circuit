@@ -33,7 +33,7 @@ This project is designed to verify a **Ring Counter** implemented in RTL using *
 │   ├── tb_pkg.sv           # Package for common testbench utilities
 └── README.md               # Project Documentation (this file)
 
-
+```
 
 ## Test Scenarios
 The following test scenarios are applied to verify the Ring Counter:
